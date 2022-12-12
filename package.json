@@ -1,0 +1,24 @@
+{
+  "name": "terga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemigiuszT/MMG.git"
+  },
+  "keywords": [],
+  "author": "Remigiusz Terek",
+  "license": "ISC",
+  "homepage": "https://github.com/RemigiuszT/MMG",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4",
+    "tmx-parser": "^1.5.0"
+  }
+}
