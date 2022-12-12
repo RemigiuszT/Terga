@@ -44,7 +44,7 @@ muteButton.addEventListener("click", () => {
 });
 
 const options = {
-  appid: "eee1672fa7ef4b83bc7810da003a07bb",
+  appid: "6c2cac0870e14aec94ef95553dc6c083",
   channel: "game",
   uid,
   token: null,
