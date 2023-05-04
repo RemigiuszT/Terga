@@ -1,4 +1,6 @@
 # Terga
 Using: Vanilla JS , NodeJS, Socket.io.
 
-Simple Shooter game. Updated soon.
+demo: https://terga-production.up.railway.app/
+
+Simple Shooter game.
